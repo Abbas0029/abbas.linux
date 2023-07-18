@@ -1,0 +1,3 @@
+Pushing my code from git to github.......
+in aws linux
+exit
